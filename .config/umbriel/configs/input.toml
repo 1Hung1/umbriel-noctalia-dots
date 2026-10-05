@@ -1,0 +1,32 @@
+# ==============================================================================
+# Input
+# Enable NumLock when a physical keyboard connects.
+# https://docs.noctalia.dev/umbriel/input/
+
+[input]
+middle_click_paste = false
+client_window_drag = true
+
+[input.keyboard]
+# layout = ""
+# variant = ""
+# options = ""
+# repeat_rate = 25
+# repeat_delay = 600
+# track_layout = "global"
+numlock_toggle = true
+
+[input.touchpad]
+tap = true
+natural_scroll = true
+left_handed = false
+accel_profile = "flat"
+# sensitivity = 0.5
+# scroll_factor = 1.5
+disable_while_typing = false
+disable_on_external_mouse = false
+# click_method = "clickfinger"
+# tap_button_map = "left_middle_right"
+
+[input.focus]
+follows_mouse = true

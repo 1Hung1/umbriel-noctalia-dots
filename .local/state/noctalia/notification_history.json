@@ -1,0 +1,53 @@
+{
+  "change_serial": 4,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2,
+      "notification": {
+        "actions": [],
+        "app_name": "Froststrap",
+        "body": "Location: Singapore, SG\nUptime: 1 hour and 28 minutes",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791121356780,
+        "icon": "dialog-information",
+        "id": 5,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791121353780,
+        "summary": "Connected to a Public server",
+        "timeout": 3000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 4,
+      "notification": {
+        "actions": [],
+        "app_name": "Froststrap",
+        "body": "Location: Singapore, SG\nUptime: 1 day, 3 hours and 52 minutes",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1791121499057,
+        "icon": "dialog-information",
+        "id": 6,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1791121496057,
+        "summary": "Connected to a Public server",
+        "timeout": 3000,
+        "urgency": "normal"
+      },
+      "seen": false
+    }
+  ],
+  "next_id": 7,
+  "version": 2
+}

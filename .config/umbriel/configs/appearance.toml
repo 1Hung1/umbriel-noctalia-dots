@@ -1,0 +1,23 @@
+# ==============================================================================
+# Appearance
+# Blur uses a smaller radius than the built-in default.
+# https://docs.noctalia.dev/umbriel/appearance/
+
+[appearance]
+prefer_no_csd = false
+border_width = 4
+corner_radius = 12
+
+[appearance.blur]
+enabled = true
+optimized = true
+passes = 3
+radius = 3
+noise = 0.02
+brightness = 0.9
+contrast = 0.9
+saturation = 1.1
+
+# Choose the background color shown if the lock screen takes too long to appear.
+# [colors]
+# backdrop = "#000000FF"

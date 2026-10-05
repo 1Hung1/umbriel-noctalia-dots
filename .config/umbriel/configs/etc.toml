@@ -1,0 +1,22 @@
+# ==============================================================================
+# Overview
+# Built-in overview and animation values are used. The top-left hot corner opens
+# the overview after a short delay.
+# Overview: https://docs.noctalia.dev/umbriel/workspaces-overview/
+# Animation: https://docs.noctalia.dev/umbriel/animation/
+
+[hot_corners.top_left]
+enabled = true
+delay_ms = 500
+action = "overview-open"
+
+# ==============================================================================
+# Screencast
+
+# By default, the first target-changing action during an active share asks for
+# confirmation. Disable that protection only if immediate keybind changes are
+# preferred.
+# https://docs.noctalia.dev/umbriel/configuration/#screencast
+
+[screencast]
+disable_dynamic_confirmation = false

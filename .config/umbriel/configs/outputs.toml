@@ -1,0 +1,10 @@
+# ==============================================================================
+# Outputs
+
+# Outputs are machine-specific. Run `umbriel outputs` to find names and modes.
+# https://docs.noctalia.dev/umbriel/outputs/
+
+[output.eDP-1]
+scale = 1
+hdr = "auto"
+direct_scanout = true
