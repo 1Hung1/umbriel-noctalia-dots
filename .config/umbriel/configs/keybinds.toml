@@ -12,6 +12,7 @@
 "Mod+Q" = { action = "window-close", repeat = false }
 "Ctrl+Alt+Delete" = "session-quit"
 "Mod+Escape" = { action = "shortcuts-inhibit-toggle", allow_when_inhibited = true, repeat = false }
+"Mod+I" = "spawn:noctalia msg settings-toggle"
 
 # Focus and movement
 "Alt+Tab" = "spawn:noctalia msg window-switcher hold"
@@ -19,6 +20,13 @@
 "Mod+Right" = "window-focus-right"
 "Mod+Up"   = "window-focus-previous"
 "Mod+Down" = "window-focus-next"
+
+# Vim movement keybinds
+"Mod+H" = "window-focus-left"
+"Mod+K"   = "window-focus-previous"
+"Mod+J" = "window-focus-next"
+"Mod+L" = "window-focus-right"
+
 "Mod+Ctrl+Left" = "column-move-left"
 "Mod+Ctrl+Down" = "window-move-down"
 "Mod+Ctrl+Up" = "window-move-up"
