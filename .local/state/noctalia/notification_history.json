@@ -1,53 +1,3399 @@
 {
-  "change_serial": 4,
+  "change_serial": 567,
   "entries": [
     {
       "active": false,
-      "close_reason": "expired",
-      "event_serial": 2,
+      "close_reason": "closed_by_call",
+      "event_serial": 334,
       "notification": {
-        "actions": [],
-        "app_name": "Froststrap",
-        "body": "Location: Singapore, SG\nUptime: 1 hour and 28 minutes",
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "LSP for nix",
         "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1791121356780,
-        "icon": "dialog-information",
-        "id": 5,
-        "image_data": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792807908855,
+        "icon": null,
+        "id": 285,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3c0c224eba75105733f33cef6fa9812a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
         "origin": "external",
         "persist_in_history": false,
-        "received_wall_ms": 1791121353780,
-        "summary": "Connected to a Public server",
-        "timeout": 3000,
+        "received_wall_ms": 1792807902855,
+        "summary": "⁨invra :3⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
         "urgency": "normal"
       },
       "seen": false
     },
     {
       "active": false,
-      "close_reason": "expired",
-      "event_serial": 4,
+      "close_reason": "closed_by_call",
+      "event_serial": 336,
       "notification": {
-        "actions": [],
-        "app_name": "Froststrap",
-        "body": "Location: Singapore, SG\nUptime: 1 day, 3 hours and 52 minutes",
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "shoudl be in deployments",
         "category": null,
-        "desktop_entry": null,
-        "expiry_wall_ms": 1791121499057,
-        "icon": "dialog-information",
-        "id": 6,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792808220083,
+        "icon": null,
+        "id": 286,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3c0c224eba75105733f33cef6fa9812a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792808214083,
+        "summary": "⁨invra :3⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 338,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "oh alr cool",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792808269215,
+        "icon": null,
+        "id": 289,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3c0c224eba75105733f33cef6fa9812a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792808263215,
+        "summary": "⁨invra :3⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 340,
+      "notification": {
+        "actions": [
+          "default",
+          "Open"
+        ],
+        "app_name": "ChatGPT",
+        "body": "ChatGPT finished a turn.",
+        "category": null,
+        "desktop_entry": "chatgpt",
+        "expiry_wall_ms": 1792813589808,
+        "icon": null,
+        "id": 291,
         "image_data": null,
         "origin": "external",
         "persist_in_history": false,
-        "received_wall_ms": 1791121496057,
-        "summary": "Connected to a Public server",
-        "timeout": 3000,
+        "received_wall_ms": 1792813583808,
+        "summary": "Hello, what is good?",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 342,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "⁨@📒・Poll Ping⁩",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792845445316,
+        "icon": null,
+        "id": 295,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e9a6e72f3637af5876599ed1c6a597d7.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792845439316,
+        "summary": "⁨invra :3⁩ (⁨#「🤔・polls」⁩, ⁨〘 Important 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 345,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Thanks for testing!\nSince it crashes standalone, it’s Rosemary + Roblox on your setup, not Froststrap.\nBasically, ⁨`St13runtime_error`⁩ = ⁨`std::runtime_error`⁩. Roblox threw error while starting crash reporter (Crashpad / RobloxCrashHandler) and aborted.",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792848009233,
+        "icon": null,
+        "id": 297,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_0bc2ad19fe8e18a98caca6a7f96cc2a1.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792848003233,
+        "summary": "⁨Your local IT guy⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 347,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Reacted ⁨👍⁩ to you \"⁨yeah⁩\"",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792890608586,
+        "icon": null,
+        "id": 299,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a8698bbb0b9feb90c58c7452cbfbdcbf.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792890602586,
+        "summary": "⁨floating umbriel > kde plasma⁩ (⁨#🏡-home⁩, ⁨CachyOS⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 349,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Learn C++",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792890799794,
+        "icon": null,
+        "id": 300,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_8cafb1ef3382eff74d3358af1887a552.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792890793794,
+        "summary": "⁨remelia⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 351,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "am I playing good this round?",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792891948581,
+        "icon": null,
+        "id": 301,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_f4aa7017bb5abf34b930021eea92fd8b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792891942581,
+        "summary": "⁨s⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 353,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "this is how it's going so far",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892057634,
+        "icon": null,
+        "id": 302,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_f4aa7017bb5abf34b930021eea92fd8b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892051634,
+        "summary": "⁨s⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 355,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "got a horse in return",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892202646,
+        "icon": null,
+        "id": 303,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_f4aa7017bb5abf34b930021eea92fd8b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892196646,
+        "summary": "⁨s⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 357,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892969386,
+        "icon": null,
+        "id": 304,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7f11e1a153df9640ad0833ac1d0c5070.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892963386,
+        "summary": "⁨Virtual Fisher⁩ (⁨#fishing🌦⁩, ⁨private beach⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 360,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892971541,
+        "icon": null,
+        "id": 305,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7f11e1a153df9640ad0833ac1d0c5070.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892965541,
+        "summary": "⁨Virtual Fisher⁩ (⁨#fishing🌦⁩, ⁨private beach⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 366,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "i did it as useradd and now it's just shitting itself with the password",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892973019,
+        "icon": null,
+        "id": 306,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3c056bc3ea872984ece79dfef63894db.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892967019,
+        "summary": "⁨pink⁩ (⁨#🆘-support⁩, ⁨CachyOS Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 362,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892973628,
+        "icon": null,
+        "id": 307,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7f11e1a153df9640ad0833ac1d0c5070.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892967628,
+        "summary": "⁨Virtual Fisher⁩ (⁨#fishing🌦⁩, ⁨private beach⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 365,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892976447,
+        "icon": null,
+        "id": 308,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7f11e1a153df9640ad0833ac1d0c5070.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892970447,
+        "summary": "⁨Virtual Fisher⁩ (⁨#fishing🌦⁩, ⁨private beach⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 368,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "i added a password and it's rejecting it",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892982297,
+        "icon": null,
+        "id": 309,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3c056bc3ea872984ece79dfef63894db.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892976297,
+        "summary": "⁨pink⁩ (⁨#🆘-support⁩, ⁨CachyOS Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 370,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892988055,
+        "icon": null,
+        "id": 310,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7f11e1a153df9640ad0833ac1d0c5070.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892982055,
+        "summary": "⁨Virtual Fisher⁩ (⁨#fishing🌦⁩, ⁨private beach⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 372,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892990724,
+        "icon": null,
+        "id": 311,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7f11e1a153df9640ad0833ac1d0c5070.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892984724,
+        "summary": "⁨Virtual Fisher⁩ (⁨#fishing🌦⁩, ⁨private beach⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 469,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792892995839,
+        "icon": null,
+        "id": 312,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_7f11e1a153df9640ad0833ac1d0c5070.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792892989839,
+        "summary": "⁨Virtual Fisher⁩ (⁨#fishing🌦⁩, ⁨private beach⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 466,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "I like the way they handle it tho. Having too many choices for proton make the user confused. They just ask you to install needed tools for windows games to run on linux. They have to at least always ship a decent one tho",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893011373,
+        "icon": null,
+        "id": 313,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_ca0be611628d32bb6c313727b40806ef.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893005373,
+        "summary": "⁨Ellie⁩ (⁨#🍷-wine-proton-darling⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 400,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "three of the knower people*",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893018562,
+        "icon": null,
+        "id": 314,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2eaf8a494ed7db5c0c79704b7b0cdae4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893012562,
+        "summary": "⁨MeLlamanHokage⁩ (⁨#nix-flakes⁩, ⁨Discussion & Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 399,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Same for Baldur's Gate 3. I no longer need ⁨`gamescope`⁩ I guess",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893066830,
+        "icon": null,
+        "id": 315,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2e5ad526aff75bf5a5f953491e92bfc4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893060830,
+        "summary": "⁨Lord SkeletonMan⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 385,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "is Anthropic worth 1.5 trillion +/- 500 billion",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893078027,
+        "icon": null,
+        "id": 316,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_99743568f8ce7f8df66e323b4fea1496.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893072027,
+        "summary": "⁨sentry⁩ (⁨#ai⁩, ⁨Miscellaneous⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 471,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "[noctalia-dev/umbriel] 1 commit(s) on main [`65bd2f1`](https://github.com/noctalia-dev/umbriel/commit/65bd2f1335bfc725d75d6b76b5ddd9556262ddb4) chore(flake): update flake.lock",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893081478,
+        "icon": null,
+        "id": 317,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_10980ea1309c3aaa747ce8752e5f2260.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893075478,
+        "summary": "⁨Talia⁩ (⁨#📡-github⁩, ⁨FEEDS⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 390,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "https://www.kkinstagram.com/reels/DdPQw2th9EG/",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893083270,
+        "icon": null,
+        "id": 318,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_94f9df9afb55a9a8502d29b408187d35.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893077270,
+        "summary": "⁨God Emperor Doom⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 470,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "+/- about 7 GMs",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893086623,
+        "icon": null,
+        "id": 319,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_99743568f8ce7f8df66e323b4fea1496.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893080623,
+        "summary": "⁨sentry⁩ (⁨#ai⁩, ⁨Miscellaneous⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 392,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "wasn't sure if you were talking about shelly or about our desktop environment",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893094959,
+        "icon": null,
+        "id": 320,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2cd8e844399d881b1f7f1f26e57a32a2.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893088959,
+        "summary": "⁨ZoeyBear | Shelly Lady⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 394,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": ":kekw:",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893096190,
+        "icon": null,
+        "id": 321,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2cd8e844399d881b1f7f1f26e57a32a2.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893090190,
+        "summary": "⁨ZoeyBear | Shelly Lady⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 396,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "as in too many features?",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893132505,
+        "icon": null,
+        "id": 322,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_26af11bac709dba47797469b703aeff4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893126505,
+        "summary": "⁨floating umbriel > kde plasma⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 398,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "⁨`faillock --user USER --reset`⁩",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893165961,
+        "icon": null,
+        "id": 323,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_35dd6314a5ec511bc129bb208e81860d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893159961,
+        "summary": "⁨Jiibus⁩ (⁨#🆘-support⁩, ⁨CachyOS Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 402,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "arekku is here.",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893231552,
+        "icon": null,
+        "id": 324,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6ba340e0e2354f8d0e2e4fbb6887c56b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893225552,
+        "summary": "⁨arekku⁩ (⁨#👋-welcome⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 404,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "ghostty has cool shaders",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893239783,
+        "icon": null,
+        "id": 325,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_d9c7f5eabb3ec356696384f44f3dd04b.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893233783,
+        "summary": "⁨kruzifixxion⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 406,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "idek why its just a cool term for me",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893269073,
+        "icon": null,
+        "id": 326,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2cd8042821c3a2d830a275ca8a2a7136.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893263073,
+        "summary": "⁨kittykatty⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 409,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "You pervert",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893271884,
+        "icon": null,
+        "id": 327,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_35dd6314a5ec511bc129bb208e81860d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893265884,
+        "summary": "⁨Jiibus⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 411,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "true....",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893280246,
+        "icon": null,
+        "id": 328,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2cd8042821c3a2d830a275ca8a2a7136.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893274246,
+        "summary": "⁨kittykatty⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 414,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "why do I want shaders again",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893281924,
+        "icon": null,
+        "id": 329,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_26af11bac709dba47797469b703aeff4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893275924,
+        "summary": "⁨floating umbriel > kde plasma⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 417,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": ">named kitty\n>like foot instead of kitty\nuh huh",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893295283,
+        "icon": null,
+        "id": 330,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_26af11bac709dba47797469b703aeff4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893289283,
+        "summary": "⁨floating umbriel > kde plasma⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 422,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "i used to have a dog as my pfp",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893306283,
+        "icon": null,
+        "id": 331,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2cd8042821c3a2d830a275ca8a2a7136.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893300283,
+        "summary": "⁨kittykatty⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 425,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": ":3 i might have to try the DE",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893308906,
+        "icon": null,
+        "id": 332,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4916e8ae09577658b69e7736560ec085.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893302906,
+        "summary": "⁨That fox who breaks things⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 428,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "https://klipy.com/gifs/what-the-dog-doin-dog-4",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893315691,
+        "icon": null,
+        "id": 333,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_210138e83a5fa0354abb38fe00c62200.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893309691,
+        "summary": "⁨Spidge⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 430,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Even the whole distro",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893325201,
+        "icon": null,
+        "id": 334,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_35dd6314a5ec511bc129bb208e81860d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893319201,
+        "summary": "⁨Jiibus⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 432,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "ty, bit late for me to read it now",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893336294,
+        "icon": null,
+        "id": 335,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3c056bc3ea872984ece79dfef63894db.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893330294,
+        "summary": "⁨pink⁩ (⁨#🆘-support⁩, ⁨CachyOS Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 435,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "think I'm gonna burst my ISP's bubbles after i wake up.",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893345056,
+        "icon": null,
+        "id": 336,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3e752a770910cc0481f6034d8b07372d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893339056,
+        "summary": "⁨LΞM0Я⁩ (⁨#🆘-support⁩, ⁨CachyOS Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 437,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Uploaded image.png",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893347610,
+        "icon": null,
+        "id": 337,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_902dd56376ca00cd85cbd1eaf24d1c7a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893341610,
+        "summary": "⁨Saint Nerona Imu⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 443,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "would take longer to go in, do that and log back out than to just wait the last few seconds",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893350655,
+        "icon": null,
+        "id": 338,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3c056bc3ea872984ece79dfef63894db.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893344655,
+        "summary": "⁨pink⁩ (⁨#🆘-support⁩, ⁨CachyOS Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 468,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Nobody ever tried bcachefs these days?",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893351853,
+        "icon": null,
+        "id": 339,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_c855e3b744fd2a8512665d22a410ab56.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893345853,
+        "summary": "⁨ross⁩ (⁨#core⁩, ⁨Kernel Discussions⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 442,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "i love my progam",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893355790,
+        "icon": null,
+        "id": 340,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_902dd56376ca00cd85cbd1eaf24d1c7a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893349790,
+        "summary": "⁨Saint Nerona Imu⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 446,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "gn n thanks ⁨@Jiibus⁩ 🙏",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893365561,
+        "icon": null,
+        "id": 341,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_3e752a770910cc0481f6034d8b07372d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893359561,
+        "summary": "⁨LΞM0Я⁩ (⁨#🆘-support⁩, ⁨CachyOS Support⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 449,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Has the latest kernel become safe for AMD Dedicated GPUs yet?",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893417994,
+        "icon": null,
+        "id": 342,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_178bf3ae00a1aa15e3176faacecf5cdf.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893411994,
+        "summary": "⁨Skiptrace⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 451,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Yea",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893432175,
+        "icon": null,
+        "id": 343,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_35dd6314a5ec511bc129bb208e81860d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893426175,
+        "summary": "⁨Jiibus⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 454,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Alright, time to update!",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893445479,
+        "icon": null,
+        "id": 344,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_178bf3ae00a1aa15e3176faacecf5cdf.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893439479,
+        "summary": "⁨Skiptrace⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 456,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "It was fine for me the whole time personally. It was an issue for specific iommu layouts",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893459544,
+        "icon": null,
+        "id": 345,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_35dd6314a5ec511bc129bb208e81860d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893453544,
+        "summary": "⁨Jiibus⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 467,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Yay you made it, ツ  ℚ𝕦𝕚𝕡𝕝𝕒𝕪 ツ!",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893479130,
+        "icon": null,
+        "id": 346,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2b55c5a92c4be1eacc11234c2c3d048d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893473130,
+        "summary": "⁨ツ  ℚ𝕦𝕚𝕡𝕝𝕒𝕪 ツ⁩ (⁨#👋-welcome⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 461,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "I always chuckle when i see infrared pictures like that because it looks like the person has seen some shit",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893491310,
+        "icon": null,
+        "id": 347,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_dbee86658a475e1a37d0ebb3f0373b50.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893485310,
+        "summary": "⁨Fertro 🎃 | Pepsi Max Enthusiast⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 463,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Some forbidden knowledge",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893499517,
+        "icon": null,
+        "id": 348,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_dbee86658a475e1a37d0ebb3f0373b50.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893493517,
+        "summary": "⁨Fertro 🎃 | Pepsi Max Enthusiast⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 465,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "I wish I had a better microphone, the one I have right now randomly spikes and hurts people's ears",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893537485,
+        "icon": null,
+        "id": 349,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_37155b9c8991f95cbafa19949be32b17.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893531485,
+        "summary": "⁨Youngest Debian user⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 474,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Damn, I didn't even think to look into shaders for this. That's pretty neat",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893654025,
+        "icon": null,
+        "id": 350,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_35dd6314a5ec511bc129bb208e81860d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893648025,
+        "summary": "⁨Jiibus⁩ (⁨#🏡-home⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 476,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Wonder what the drawbacks of removing kernel 6.18 would be.",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893672988,
+        "icon": null,
+        "id": 351,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_01ab2c486d7520ddbec25840dd777261.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893666988,
+        "summary": "⁨AI good, Human Bad⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 479,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Wtf, this is so good ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893693737,
+        "icon": null,
+        "id": 352,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_c4aa69946054d421af12fdd3f0c3249c.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893687737,
+        "summary": "⁨Zero⁩ (⁨#🕶️-umbriel-shaders⁩, ⁨COMMUNITY⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 481,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "*I'm starting to feel adventurous.*",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893709601,
+        "icon": null,
+        "id": 353,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_01ab2c486d7520ddbec25840dd777261.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893703601,
+        "summary": "⁨AI good, Human Bad⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 483,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "my god",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893769928,
+        "icon": null,
+        "id": 354,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_210138e83a5fa0354abb38fe00c62200.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893763928,
+        "summary": "⁨Spidge⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 485,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "😨",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893780169,
+        "icon": null,
+        "id": 355,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_b685894266de1ad4d033804a8647c752.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893774169,
+        "summary": "⁨NotPika⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 487,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "I'm insufferable, I know.",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893781692,
+        "icon": null,
+        "id": 356,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_01ab2c486d7520ddbec25840dd777261.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893775692,
+        "summary": "⁨AI good, Human Bad⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 493,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "If the issue is actually gamescope then it sounds like a compositor issue",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893787955,
+        "icon": null,
+        "id": 357,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_b58b6e0f77451a2f1e32c9f832abb029.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893781955,
+        "summary": "⁨Noctis⁩ (⁨#🕳️-voidlinux⁩, ⁨DISTROS⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 492,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "[CachyOS/cachyos-aur-derived] New comment on pull request #1071: equibop: update to 3.3.2 dont think the checksum is right",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792893815506,
+        "icon": null,
+        "id": 358,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_6d221503bb112a192e2925bd3d340c99.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792893809506,
+        "summary": "⁨GitHub⁩ (⁨#github⁩, ⁨CachyOS Information⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 495,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Reacted ⁨👍⁩ to you \"⁨26.04 to be exact⁩\"",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792900209795,
+        "icon": null,
+        "id": 359,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_c9d5881bf3aca7acf551d4615c6572e8.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792900203795,
+        "summary": "⁨imicy⁩ (⁨#🌙-chat⁩, ⁨Noctalia⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 497,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "⁨@📒・Poll Ping⁩ what do we think, still want to fiddle around a bit to make it pefect to when it actually releases",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792905735775,
+        "icon": null,
+        "id": 360,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_c708b2b50bc84f5d8f6e262c4b510f0d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792905729775,
+        "summary": "⁨invra :3⁩ (⁨#「🤔・polls」⁩, ⁨〘 Important 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 499,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Make snake in that language",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792906507081,
+        "icon": null,
+        "id": 362,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_47ef30213f3fd4df29b177b5f75fa5ef.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792906501081,
+        "summary": "⁨Your local IT guy⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 501,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Can you stop advertising this shit",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792914943277,
+        "icon": null,
+        "id": 365,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a5ef31c9e14e9004b4c7f9a8a3587abf.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792914937277,
+        "summary": "⁨bloxxy07⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 503,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "⁨@🧪・Tester Ping⁩ https://github.com/Froststrap/Froststrap/releases/tag/v2.0.6-beta.7\n\ntitlebar redisng mostly in this update i guess",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792921233248,
+        "icon": null,
+        "id": 366,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_55b7b9c964a810a5f69643543982b07d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792921227248,
+        "summary": "⁨invra :3⁩ (⁨#「💫・froststrap・test」⁩, ⁨〘 Development 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 505,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "yeah",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792921280354,
+        "icon": null,
+        "id": 367,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_55b7b9c964a810a5f69643543982b07d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792921274354,
+        "summary": "⁨invra :3⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 507,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "amaing to hear",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792921658059,
+        "icon": null,
+        "id": 368,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_55b7b9c964a810a5f69643543982b07d.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792921652059,
+        "summary": "⁨invra :3⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 509,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "yeah",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792923689128,
+        "icon": null,
+        "id": 372,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_14279ad027755adda5b13d125dcdeef2.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792923683128,
+        "summary": "⁨bonjing⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 511,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "im not good at this stuff idk what to search up",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792923783086,
+        "icon": null,
+        "id": 373,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_f9965ee14ff9e1e6dd094f29ad547f01.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792923777086,
+        "summary": "⁨K!NG⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 513,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "okay ill try thx",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792927374262,
+        "icon": null,
+        "id": 377,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_2fa49b774fc6f765ae4516353acea9d4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792927368262,
+        "summary": "⁨𝐦⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 515,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "impermanence/preservation, a way to auto wipe everything that's not in nix store every boot",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792928458725,
+        "icon": null,
+        "id": 378,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a8654b69eab45f54fe3577795f873467.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792928452725,
+        "summary": "⁨Para⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 517,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "what tf is this?",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792932048429,
+        "icon": null,
+        "id": 394,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_c111c1bc06f39365eff7bb2b20dc2909.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792932042429,
+        "summary": "⁨Cursed Sample⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 520,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "let it test, again",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792932610386,
+        "icon": null,
+        "id": 396,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e8bff47d8d9eb839b6604b4e768f0f75.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792932604386,
+        "summary": "⁨Gohma 🐧⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 523,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "gonna add this to my config too, in preparation :LUL:",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792932942134,
+        "icon": null,
+        "id": 397,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a8654b69eab45f54fe3577795f873467.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792932936134,
+        "summary": "⁨Para⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 525,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "is it the bell you hear in terminals?",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792933181299,
+        "icon": null,
+        "id": 399,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_c111c1bc06f39365eff7bb2b20dc2909.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792933175299,
+        "summary": "⁨Cursed Sample⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 528,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "if your gpu does support it you could use AV!",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792933332086,
+        "icon": null,
+        "id": 400,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_e8bff47d8d9eb839b6604b4e768f0f75.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792933326086,
+        "summary": "⁨Gohma 🐧⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 530,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "HEVC",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792933371746,
+        "icon": null,
+        "id": 401,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_cc8d010fba0a315cb0e8c9a3819c45ed.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792933365746,
+        "summary": "⁨Aditya⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 532,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Reacted ⁨😮⁩ to you \"⁨in plugin settings⁩\"",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792933662370,
+        "icon": null,
+        "id": 405,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_000b5bb281cedf245a57052811f5e807.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792933656370,
+        "summary": "⁨Para⁩ (⁨#🌙-chat⁩, ⁨Noctalia⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 534,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "totally missed that, mb",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792933673253,
+        "icon": null,
+        "id": 406,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_a8654b69eab45f54fe3577795f873467.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792933667253,
+        "summary": "⁨Para⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 537,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "didn't work",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792933898368,
+        "icon": null,
+        "id": 408,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_c111c1bc06f39365eff7bb2b20dc2909.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792933892368,
+        "summary": "⁨Cursed Sample⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 539,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "somehow discovered by chatgpt out of all things",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792936728880,
+        "icon": null,
+        "id": 431,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_95b70dcd27a33c9123a0d2bb0bb3522a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792936722880,
+        "summary": "⁨Tungnon⁩ (⁨#🌙-chat⁩, ⁨CHAT⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 541,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "there are no differences",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792937913278,
+        "icon": null,
+        "id": 432,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_88923f91fbed19a9646ba1de41d39091.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792937907278,
+        "summary": "⁨!⁩ (⁨\"i cant dowload froststrap\"⁩, ⁨「❗・support」⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 544,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "split the difference, eat cat food",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792993100890,
+        "icon": null,
+        "id": 436,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_9e218282773e5332d33aabcb28d4a596.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792993094890,
+        "summary": "⁨Fertro 🎃 | Pepsi Max Enthusiast⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 546,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Reacted ⁨:cachygrin:⁩ to you \"⁨nah i'd do `sudo rm -fr /*` for the FRench language pack⁩\"",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792993433597,
+        "icon": null,
+        "id": 437,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_757588b766f22ea7140893b83a849567.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792993427597,
+        "summary": "⁨framsynr⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 548,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Uploaded 55q838r.png",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792993440597,
+        "icon": null,
+        "id": 438,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_bd67bc12a93b42dc85175a9a4ccdcd44.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792993434597,
+        "summary": "⁨Your local IT guy⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 550,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "thats actually really good lmao",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1792994019210,
+        "icon": null,
+        "id": 440,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_28bc7a9f340e8f478a4b8bfa3e7ee41a.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792994013210,
+        "summary": "⁨God Emperor Doom⁩ (⁨#🛋️-lounge⁩, ⁨CachyOS Community⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 552,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "What bout passkeys?\nKeep in mind that I don't know the context for this (since I left)",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793012439727,
+        "icon": null,
+        "id": 445,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_5d63f5d31cddcda66711c16fc5b0e142.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793012433727,
+        "summary": "⁨Your local IT guy⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 554,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "im rn tryna fix the CI failing",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793013025595,
+        "icon": null,
+        "id": 446,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4f0e1389f750f587b194db5a22f2f6c2.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793013019595,
+        "summary": "⁨invra :3⁩ (⁨\"@🐧・Linux if anyone wants to test smth\"⁩, ⁨「💫・froststrap・test」⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 556,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "feat/rust",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793013889421,
+        "icon": null,
+        "id": 447,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4f0e1389f750f587b194db5a22f2f6c2.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793013883421,
+        "summary": "⁨invra :3⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 558,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "nevemind",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793014863470,
+        "icon": null,
+        "id": 449,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_4f0e1389f750f587b194db5a22f2f6c2.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793014857470,
+        "summary": "⁨invra :3⁩ (⁨#「💬・general」⁩, ⁨〘 Public 〙⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 560,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "Search for \"attach\" in the settings",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793019667500,
+        "icon": null,
+        "id": 455,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_f1e4f9e3bb37fabd2e4b8541b490f032.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793019661500,
+        "summary": "⁨Lysec⁩ (⁨#🍙-ricing⁩, ⁨COMMUNITY⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 562,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "NUN Stack",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793021348312,
+        "icon": null,
+        "id": 459,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_ec594d244e9781457abacdc18b24dcb4.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793021342312,
+        "summary": "⁨Gohma 🐧⁩ (⁨#workspace⁩, ⁨Social interactions⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "dismissed",
+      "event_serial": 564,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "⁨@NoOneCares⁩ hi",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793021724883,
+        "icon": null,
+        "id": 460,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_22e70ba06a9cc28a390c461d0e8970b7.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793021718883,
+        "summary": "⁨HuTao⁩ (⁨#general⁩, ⁨General Chat⁩)",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "closed_by_call",
+      "event_serial": 567,
+      "notification": {
+        "actions": [
+          "default",
+          "Show"
+        ],
+        "app_name": "vesktop",
+        "body": "can you tell me? ⁨@NoOneCares⁩",
+        "category": null,
+        "desktop_entry": "vesktop",
+        "expiry_wall_ms": 1793021780822,
+        "icon": null,
+        "id": 461,
+        "image_data": {
+          "bits_per_sample": 8,
+          "channels": 4,
+          "has_alpha": true,
+          "height": 96,
+          "image_file": "i_22e70ba06a9cc28a390c461d0e8970b7.webp",
+          "row_stride": 384,
+          "width": 96
+        },
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1793021774822,
+        "summary": "⁨HuTao⁩ (⁨#general⁩, ⁨General Chat⁩)",
+        "timeout": 6000,
         "urgency": "normal"
       },
       "seen": false
     }
   ],
-  "next_id": 7,
+  "next_id": 462,
   "version": 2
 }

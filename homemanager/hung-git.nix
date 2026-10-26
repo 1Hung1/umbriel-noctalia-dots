@@ -4,8 +4,9 @@
   # Declarative Git configuration
   programs.git = {
     enable = true;
-    settings.user.name = "Hung"; # set your github username here
-    settings.user.email = "legiahung.ny@gmail.com"; # set your email here
+    settings.user.name = "Hung";
+    settings.user.email = "legiahung.ny@gmail.com";
     settings.init.defaultBranch = "main";
+    settings.push.autoSetupRemote = true;
   };
 }
